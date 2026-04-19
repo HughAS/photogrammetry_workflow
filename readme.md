@@ -93,7 +93,5 @@ Step 18: Add publicly available relevant data to digital twin
 
 STEP 19: SAVE SOME PEAT. 
 
-*Dependencies* 
-
 
 
