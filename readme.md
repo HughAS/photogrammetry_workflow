@@ -22,31 +22,29 @@ This workflow is designed to be accessible to ecologists, land managers, and con
 
 *Roles | Description* 
 
-Mission Planner: 
-GIS Specialist: 
+Mission Planner: Someone who puts together the flight plan
+GIS Specialist: Someone who stiches together the photos 
 Drone Pilot: Have to CAA accreditation 
  
 ** A single person can fulfil multiple roles.
  
 ### Equipment
  
-- UAV drone with survey-grade camera (minimum 20 megapixels)
-- RTK GNSS module or base station (see Step 7 for explanation)
-- Ground control targets (large printed or painted markers placed on the ground)
+- UAV drone with survey-grade camera (do camera specs matter? )
+- RTK GNSS module or base station (see Step 7 for explanation?)
 - Laptop or workstation with photogrammetry software installed
-- Sufficient memory storage (drone surveys produce large files — typically 50–200 GB)
-### Software Required
+- Sufficient memory storage (drone surveys produce large files — typically XX)
+
+### Software Dependencies
  
-| Software | Purpose | Cost |
-|---|---|---|
-| Google Maps / Earth | Desktop scoping | Free |
-| MAGIC / Defra LiDAR Viewer | Publicly available elevation data | Free |
-| DJI Pilot 2, Pix4Dcapture, or similar | Flight planning | Free / subscription |
-| WebODM | Open-source photogrammetry processing | Free (self-hosted) |
-| Agisoft Metashape | Professional photogrammetry processing | Paid licence |
-| QGIS | Open-source GIS software | Free |
-| ArcGIS Pro | Professional GIS software | Paid licence |
- 
+- Google Maps/Earth: free 
+- LiDAR? Where does this come from/ free?
+- Drone Specs? I assume not all drones are created equal
+- WebODM: open-source photogrammetry processing; free (self-hosted)
+- Agisoft Metashape: professional photogrammetry processing; paid licence (cost per annum)
+- QGIS: open-source GIS software; free
+- ArcGIS: professional GIS software; paid licence (cost per annum)
+- HecRAS: 
 
 Step 1: Desktop Scoping on Google Maps 
 
