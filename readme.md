@@ -22,8 +22,8 @@ This workflow is designed to be accessible to ecologists, land managers, and con
 
 *Roles | Description* 
 
-Mission Planner: Someone who puts together the flight plan
-GIS Specialist: Someone who stiches together the photos 
+Mission Planner: Someone who puts together the flight plan \\
+GIS Specialist: Someone who stiches together the photos \
 Drone Pilot: Have to CAA accreditation 
  
 ** A single person can fulfil multiple roles.
