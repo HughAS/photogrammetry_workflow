@@ -1,6 +1,20 @@
-Title: Photogrammetry Workflow with UAV Drone Survey Data for Peatland Restoration
-Author: Hugh Martin
-Date: 19 April 2026
+# Photogrammetry Workflow with UAV Drone Survey Data for Peatland Restoration
+ 
+**Author:** Hugh Martin  
+**Date:** 19 April 2026  
+**Status:** Working Document
+ 
+---
+ 
+## Introduction
+
+*What is this Document?*
+
+This document provides a step-by-step workflow for using drone-mounted cameras to produce detailed maps and 3D models of peatland sites for a more effective restoration. 
+ 
+The process is called **photogrammetry**: the science of making measurements and maps from photographs. When a drone flies a carefully planned grid over a landscape, taking hundreds of overlapping photographs, specialist software can stitch those photos together to reconstruct the landscape in extraordinary detail, producing maps, elevation models, and 3D visualisations that would take weeks and significant cost to achieve by traditional ground survey methods. 
+ 
+This workflow is designed to be accessible to ecologists, land managers, and conservation practitioners who are not specialists in remote sensing or GIS (Geographic Information Systems; the digital tools used to manage and analyse spatial data). Every technical term is explained the first time it appears.
 
 Step 1: Desktop Scoping on Google Maps 
 
