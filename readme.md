@@ -31,7 +31,7 @@ This workflow is designed to be accessible to ecologists, land managers, and con
 ### Equipment
  
 - UAV drone with survey-grade camera (do camera specs matter? )
-- RTK GNSS module or base station (see Step 7 for explanation?)
+- RTK module or base station (see Step 7 for explanation?)
 - Laptop or workstation with photogrammetry software installed
 - Sufficient memory storage (drone surveys produce large files — typically XX)
 
