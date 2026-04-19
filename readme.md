@@ -8,13 +8,45 @@
  
 ## Introduction
 
-*What is this Document?*
+### What is this Document?
 
 This document provides a step-by-step workflow for using drone-mounted cameras to produce detailed maps and 3D models of peatland sites for a more effective restoration. 
  
 The process is called **photogrammetry**: the science of making measurements and maps from photographs. When a drone flies a carefully planned grid over a landscape, taking hundreds of overlapping photographs, specialist software can stitch those photos together to reconstruct the landscape in extraordinary detail, producing maps, elevation models, and 3D visualisations that would take weeks and significant cost to achieve by traditional ground survey methods. 
  
 This workflow is designed to be accessible to ecologists, land managers, and conservation practitioners who are not specialists in remote sensing or GIS (Geographic Information Systems; the digital tools used to manage and analyse spatial data). Every technical term is explained the first time it appears.
+
+## What You Will Need
+ 
+### Skills and Roles
+
+*Roles | Description* 
+
+Mission Planner: 
+GIS Specialist: 
+Drone Pilot: Have to CAA accreditation 
+ 
+** A single person can fulfil multiple roles.
+ 
+### Equipment
+ 
+- UAV drone with survey-grade camera (minimum 20 megapixels)
+- RTK GNSS module or base station (see Step 7 for explanation)
+- Ground control targets (large printed or painted markers placed on the ground)
+- Laptop or workstation with photogrammetry software installed
+- Sufficient memory storage (drone surveys produce large files — typically 50–200 GB)
+### Software Required
+ 
+| Software | Purpose | Cost |
+|---|---|---|
+| Google Maps / Earth | Desktop scoping | Free |
+| MAGIC / Defra LiDAR Viewer | Publicly available elevation data | Free |
+| DJI Pilot 2, Pix4Dcapture, or similar | Flight planning | Free / subscription |
+| WebODM | Open-source photogrammetry processing | Free (self-hosted) |
+| Agisoft Metashape | Professional photogrammetry processing | Paid licence |
+| QGIS | Open-source GIS software | Free |
+| ArcGIS Pro | Professional GIS software | Paid licence |
+ 
 
 Step 1: Desktop Scoping on Google Maps 
 
